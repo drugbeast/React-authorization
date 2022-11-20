@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "limotshow@gmail.com",
+      "password": "Titov_310104",
+      "createdAt": "2022-11-18T17:19:09.194Z"
+    },
+    {
+      "id": 2,
+      "email": "dianamiskova8@gmail.com",
+      "password": "486_Medved_905",
+      "createdAt": "2022-11-19T08:45:40.350Z"
+    },
+    {
+      "id": 3,
+      "email": "test@gmail.com",
+      "password": "Password_01",
+      "createdAt": "2022-11-20T12:48:48.584Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 3,
+      "title": "Buy two coffee",
+      "body": "Go to the McDonalds and buy a drink",
+      "createdAt": "2022-11-20T00:03:43.102Z"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "title": "Write a poem",
+      "body": "Write a poem about princes and dragons",
+      "createdAt": "2022-11-20T00:03:55.043Z"
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "title": "Let's dance!",
+      "body": "uga wuga buga!",
+      "createdAt": "2022-11-20T13:40:32.6X08Z"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "title": "Go to a toilet",
+      "body": "do poop",
+      "createdAt": "2022-11-20T13:41:10.109Z"
+    }
+  ]
+}
